@@ -1,4 +1,4 @@
-# ClickyGame
+# RoseMemoryGame
 
 Download the game and hit NPM start to run this memory game on localhost:3000. App was made using React.
 <br>
@@ -22,6 +22,4 @@ Instructions:
 <br>
 -But to make things trickier, the rose cards will re-shuffle around after each click.
 
-https://nw91.github.io/RoseGame/
-# RoseGame
-# RoseGame
+https://nw91.github.io/RoseGame/index.html
