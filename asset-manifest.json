@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RoseGame/static/css/main.de0fda85.chunk.css",
+    "main.js": "/RoseGame/static/js/main.9f2a1f2e.chunk.js",
+    "main.js.map": "/RoseGame/static/js/main.9f2a1f2e.chunk.js.map",
+    "runtime~main.js": "/RoseGame/static/js/runtime~main.19369d86.js",
+    "runtime~main.js.map": "/RoseGame/static/js/runtime~main.19369d86.js.map",
+    "static/js/2.0ab779d2.chunk.js": "/RoseGame/static/js/2.0ab779d2.chunk.js",
+    "static/js/2.0ab779d2.chunk.js.map": "/RoseGame/static/js/2.0ab779d2.chunk.js.map",
+    "index.html": "/RoseGame/index.html",
+    "precache-manifest.ca311d3c9dc50217d028212406a9048e.js": "/RoseGame/precache-manifest.ca311d3c9dc50217d028212406a9048e.js",
+    "service-worker.js": "/RoseGame/service-worker.js",
+    "static/css/main.de0fda85.chunk.css.map": "/RoseGame/static/css/main.de0fda85.chunk.css.map"
+  }
+}
